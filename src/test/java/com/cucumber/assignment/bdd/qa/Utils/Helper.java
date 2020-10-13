@@ -20,4 +20,5 @@ junit.addListener(new ScreenshotListener((TakesScreenShots) webDriver));
 // then run your test...
 
     Result result = junit.run(Request.classes(FullTestSuite.class));*/
+    //result is not visible
 }
