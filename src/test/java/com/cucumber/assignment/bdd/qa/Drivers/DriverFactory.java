@@ -42,7 +42,7 @@ public DriverFactory(){
 
     }
     public void quitBrowser(){
-        // driver.quit();
+        // driver.quit(); This is only used when we showcase/demo
     }
 
     // Hello JDK problem solved
